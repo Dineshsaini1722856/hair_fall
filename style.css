@@ -12,6 +12,7 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
             color: #333;
+            overflow-x: hidden;
         }
 
         /* Custom Green Theme */
@@ -33,6 +34,7 @@
             color: white;
             padding: 1rem 0;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: hidden;
         }
 
         /* Hero Section */
@@ -40,6 +42,8 @@
             background: linear-gradient(135deg, #f0f9f0, #e8f5e8);
             padding: 80px 0;
             min-height: 600px;
+            overflow-x: hidden;
+            
         }
 
         .hero h1 {
@@ -61,7 +65,7 @@
             color: white;
             padding: 18px 35px;
             border: none;
-            border-radius: 50px;
+            border-radius: 20px;
             font-size: 1.2rem;
             font-weight: 700;
             text-decoration: none;
@@ -102,6 +106,7 @@
             padding: 30px;
             border-radius: 20px;
             box-shadow: 0 15px 40px rgba(0,0,0,0.1);
+            
         }
 
         .before-after {
@@ -126,6 +131,7 @@
         .problem-section {
             background: white;
             padding: 80px 0;
+            overflow-x: hidden;
         }
 
         .problem-item {
@@ -153,6 +159,7 @@
         .solution-section {
             background: linear-gradient(135deg, #e8f5e8, #f0f9f0);
             padding: 80px 0;
+            overflow-x: hidden;
         }
 
         .benefit-item {
@@ -185,6 +192,7 @@
         .story-section {
             background: white;
             padding: 80px 0;
+            overflow-x: hidden;
         }
 
         .story-image {
@@ -197,6 +205,7 @@
         .testimonials-section {
             background: #f8fafb;
             padding: 80px 0;
+            overflow-x: hidden;
         }
 
         .testimonial-item {
@@ -229,6 +238,7 @@
         .pricing-section {
             background: white;
             padding: 80px 0;
+            overflow-x: hidden;
         }
 
         .pricing-box {
@@ -266,6 +276,7 @@
         .faq-section {
             background: #f8fafb;
             padding: 80px 0;
+            overflow-x: hidden;
         }
 
         .faq-item {
@@ -305,6 +316,7 @@
             background: linear-gradient(135deg, var(--primary-green), var(--secondary-green));
             color: white;
             padding: 80px 0;
+            overflow-x: hidden;
         }
 
         /* Floating Animation */

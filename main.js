@@ -1,11 +1,7 @@
 
+
 // Initialize AOS
-AOS.init({
-    duration: 1000,
-    easing: 'ease-in-out',
-    once: true,
-    mirror: false
-});
+  AOS.init();
 
 // Smooth scrolling for anchor links
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
